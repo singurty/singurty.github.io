@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://shirishpokhrel.me/posts/first-post/</loc>
+    <loc>https://shirishpokhrel.me/posts/first-post/</loc>
     <lastmod>2022-05-25T09:30:55+05:45</lastmod>
   </url><url>
-    <loc>http://shirishpokhrel.me/posts/</loc>
+    <loc>https://shirishpokhrel.me/posts/</loc>
     <lastmod>2022-05-25T09:30:55+05:45</lastmod>
   </url><url>
-    <loc>http://shirishpokhrel.me/</loc>
+    <loc>https://shirishpokhrel.me/</loc>
     <lastmod>2022-05-25T09:30:55+05:45</lastmod>
   </url><url>
-    <loc>http://shirishpokhrel.me/categories/</loc>
+    <loc>https://shirishpokhrel.me/categories/</loc>
   </url><url>
-    <loc>http://shirishpokhrel.me/tags/</loc>
+    <loc>https://shirishpokhrel.me/tags/</loc>
   </url>
 </urlset>

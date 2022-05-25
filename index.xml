@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shirish Pokhrel</title>
+    <link>https://shirishpokhrel.me/</link>
+    <description>Recent content on Shirish Pokhrel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 May 2022 14:34:21 +0545</lastBuildDate><atom:link href="https://shirishpokhrel.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I made a website</title>
+      <link>https://shirishpokhrel.me/posts/first-post/</link>
+      <pubDate>Wed, 25 May 2022 09:30:55 +0545</pubDate>
+      
+      <guid>https://shirishpokhrel.me/posts/first-post/</guid>
+      <description>Couple days ago I stared using fediverse. I had an account on fosstodon.org some time ago but never used it. I followed some people and all of them seem to have pretty websites and I wanted one too. Luckily, I was able to get a free .me domain from Namecheap using my student email address. I fought with hugo all day today, and here is what I have. I used the archie theme and made some modifications to it.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://shirishpokhrel.me/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shirishpokhrel.me/projects/</guid>
+      <description>Vritually all my projects are me reading a book and trying stuff out. I guess I&amp;rsquo;m not there yet.
+ tlpi
+This is a collection of numerous Linux system programs in C. I wrote this following examples and exercises from the book The Linux Programming Interface. This was one of my first introductions to C and by far the most fun book on programming. C programming and operating systems, this book made me better at both.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://shirishpokhrel.me/blog/</loc>
+    <lastmod>2022-05-25T09:30:55+05:45</lastmod>
+  </url><url>
     <loc>https://shirishpokhrel.me/blog/posts/first-post/</loc>
     <lastmod>2022-05-25T09:30:55+05:45</lastmod>
   </url><url>
     <loc>https://shirishpokhrel.me/blog/posts/</loc>
-    <lastmod>2022-05-25T09:30:55+05:45</lastmod>
-  </url><url>
-    <loc>https://shirishpokhrel.me/blog/</loc>
     <lastmod>2022-05-25T09:30:55+05:45</lastmod>
   </url><url>
     <loc>https://shirishpokhrel.me/blog/categories/</loc>

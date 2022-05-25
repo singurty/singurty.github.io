@@ -7,5 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 May 2022 14:34:21 +0545</lastBuildDate><atom:link href="https://shirishpokhrel.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>https://shirishpokhrel.me/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://shirishpokhrel.me/projects/</guid>
+      <description>Vritually all my projects are me reading a book and trying stuff out. I guess I&amp;rsquo;m not there yet.
+ tlpi
+This is a collection of numerous Linux system programs in C. I wrote this following examples and exercises from the book The Linux Programming Interface. This was one of my first introductions to C and by far the most fun book on programming. C programming and operating systems, this book made me better at both.</description>
+    </item>
+    
   </channel>
 </rss>
